@@ -43,7 +43,6 @@ public class Main {
 		t1.setMatricula(1);
 		t1.setCurso("Desenvolvimento");
 		t1.pagarMensalidade();
-		
 	}
 
 }
