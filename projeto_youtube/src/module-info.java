@@ -5,5 +5,5 @@
  * @author malcolm
  *
  */
-module aula02 {
+module projeto_youtube {
 }
